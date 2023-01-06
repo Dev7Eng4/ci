@@ -6,11 +6,7 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'>
-<<<<<<< HEAD
-        <p>Fix hahaha</p>
-=======
         <p>No lala Feat</p>
->>>>>>> b797994 (a)
         <img src={logo} className='App-logo' alt='logo' />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
