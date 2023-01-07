@@ -17,12 +17,8 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-<<<<<<< HEAD
-          hehe haha hihe ha eee tala
-=======
           hehe haha hihe ha eee
           <span>revert</span>
->>>>>>> m
         </a>
       </header>
     </div>
