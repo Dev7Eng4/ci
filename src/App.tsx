@@ -17,7 +17,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React hello b commit 1
+          Learn React hello b commit 1 commit 2
         </a>
       </header>
     </div>
